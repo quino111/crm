@@ -1,0 +1,5 @@
+PRIMER PARTE "SISTEMA DE ADMINISTRACION COEMRCIAL CRM"
+- contactos ACTUAL
+- tareas
+- grupo
+- tableros
